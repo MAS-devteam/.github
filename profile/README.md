@@ -1,7 +1,3 @@
-Grazie per le informazioni aggiuntive! Ecco la presentazione aggiornata per **MAS-devteam** su GitHub, con i dettagli corretti sui linguaggi, le librerie e gli strumenti utilizzati dal team:
-
----
-
 # Benvenuti in MAS-devteam!
 
 ## Chi Siamo
@@ -61,4 +57,3 @@ Grazie per aver visitato la nostra pagina GitHub! Siamo sempre alla ricerca di n
 
 ---
 
-Questa versione aggiornata riflette accuratamente le tecnologie e gli strumenti utilizzati dal team **MAS-devteam**. Spero che sia di tuo gradimento!
