@@ -33,10 +33,6 @@ Nel nostro team, crediamo nell'apprendimento continuo e nella sperimentazione. S
 
 ---
 
-## 📈 Statistiche del Gruppo
-
-![MAS-devteam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAS-devteam&layout=compact&theme=radical)
-
 ## 📚 Progetti Recenti
 
 ### 📂 **[DocuPhalanx](https://github.com/MAS-devteam/DocuPhalanx)**
