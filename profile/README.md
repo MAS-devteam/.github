@@ -1,12 +1,64 @@
-## Hi there 👋
+Grazie per le informazioni aggiuntive! Ecco la presentazione aggiornata per **MAS-devteam** su GitHub, con i dettagli corretti sui linguaggi, le librerie e gli strumenti utilizzati dal team:
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+# Benvenuti in MAS-devteam!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Chi Siamo
+
+Siamo **MAS-devteam**, un gruppo di studenti curiosi e appassionati di informatica e intelligenza artificiale. Uniamo le nostre competenze e la nostra creatività per sviluppare progetti innovativi che possano essere utili nella vita quotidiana. Il nostro lavoro è guidato dalla passione per la programmazione e dal desiderio di esplorare nuove tecnologie, tutto con un tocco di divertimento!
+
+## La Nostra Missione
+
+Nel nostro team, crediamo nell'apprendimento continuo e nella sperimentazione. Sviluppiamo progetti per migliorare le nostre abilità e creare strumenti che, anche se semplici, possono fare la differenza. Ogni progetto è un'opportunità per imparare qualcosa di nuovo, sfidare noi stessi e, soprattutto, divertirci.
+
+---
+
+## 🛠️ Tecnologie e Strumenti
+
+### 🖥️ Linguaggi di Programmazione
+- **Python**
+- **HTML**
+- **CSS**
+- **Ruby** (progetti in arrivo!)
+- **Julia** (progetti in arrivo!)
+
+### 🔧 Librerie e Framework
+- **scikit-learn (sklearn)**
+- **Flask**
+- **TensorFlow**
+
+### 🛠️ Strumenti
+- **GitHub**
+- **Visual Studio Code (VSCode)**
+- **Obsidian**
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,ruby,julia,flask,tensorflow,github,vscode)](https://skillicons.dev)
+
+---
+
+## 📈 Statistiche del Gruppo
+
+![MAS-devteam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAS-devteam&layout=compact&theme=radical)
+
+## 📚 Progetti Recenti
+
+### 📂 **[DocuPhalanx](https://github.com/MAS-devteam/DocuPhalanx)**
+**DocuPhalanx** automatizza l'organizzazione dei file in categorie (ad esempio, Documenti, Immagini) con supporto per il logging, il multilingue e configurazioni flessibili. È ideale per chi cerca un modo efficiente per gestire i propri file senza perdere tempo.
+
+### 🐍 **[M-compiler](https://github.com/MAS-devteam/M-compiler/tree/main)**
+**M-compiler** è un compilatore che trasforma file .M in programmi Python (.py) funzionanti. Questo progetto è perfetto per chi desidera compilare e utilizzare script in diversi linguaggi di programmazione, facilitando la transizione e l'integrazione tra le varie sintassi.
+
+---
+
+## 🚧 Progetti in Corso
+
+**Continuamente in evoluzione**: Siamo sempre al lavoro su nuovi progetti entusiasmanti e sfide tecnologiche. Resta sintonizzato per scoprire le nostre prossime creazioni!
+
+---
+
+Grazie per aver visitato la nostra pagina GitHub! Siamo sempre alla ricerca di nuove idee e ispirazioni, quindi sentiti libero di esplorare i nostri progetti e condividere i tuoi pensieri. 🚀
+
+---
+
+Questa versione aggiornata riflette accuratamente le tecnologie e gli strumenti utilizzati dal team **MAS-devteam**. Spero che sia di tuo gradimento!
