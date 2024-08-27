@@ -33,7 +33,7 @@ Nel nostro team, crediamo nell'apprendimento continuo e nella sperimentazione. S
 
 ---
 
-## 📚 Progetti Recenti
+## 📚 Progetti Che Ti Consigliamo Di Vedere
 
 ### 📂 **[DocuPhalanx](https://github.com/MAS-devteam/DocuPhalanx)**
 **DocuPhalanx** automatizza l'organizzazione dei file in categorie (ad esempio, Documenti, Immagini) con supporto per il logging, il multilingue e configurazioni flessibili. È ideale per chi cerca un modo efficiente per gestire i propri file senza perdere tempo.
@@ -45,7 +45,7 @@ Nel nostro team, crediamo nell'apprendimento continuo e nella sperimentazione. S
 
 ## 🚧 Progetti in Corso
 
-**Continuamente in evoluzione**: Siamo sempre al lavoro su nuovi progetti entusiasmanti e sfide tecnologiche. Resta sintonizzato per scoprire le nostre prossime creazioni!
+**PAUSA ESTIVA**
 
 ---
 
