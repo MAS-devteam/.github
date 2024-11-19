@@ -38,14 +38,11 @@ Nel nostro team, crediamo nell'apprendimento continuo e nella sperimentazione. S
 ### 📂 **[DocuPhalanx](https://github.com/MAS-devteam/DocuPhalanx)**
 **DocuPhalanx** automatizza l'organizzazione dei file in categorie (ad esempio, Documenti, Immagini) con supporto per il logging, il multilingue e configurazioni flessibili. È ideale per chi cerca un modo efficiente per gestire i propri file senza perdere tempo.
 
-### 🐍 **[M-compiler](https://github.com/MAS-devteam/M-compiler/tree/main)**
-**M-compiler** è un compilatore che trasforma file .M in programmi Python (.py) funzionanti. Questo progetto è perfetto per chi desidera compilare e utilizzare script in diversi linguaggi di programmazione, facilitando la transizione e l'integrazione tra le varie sintassi.
-
 ---
 
 ## 🚧 Progetti in Corso
 
-**PAUSA ESTIVA**
+
 
 ---
 
